@@ -1,0 +1,21 @@
+{
+  "name": "voiskey",
+  "version": "1.0.0",
+  "description": "Find meeting notes, transcripts, and action items from Voiskey.",
+  "author": {
+    "name": "Voiskey",
+    "email": "contact@voiskey.ai"
+  },
+  "homepage": "https://www.voiskey.ai",
+  "repository": "https://github.com/voiskey38-eng/voiskey-cursor-plugin",
+  "license": "MIT",
+  "logo": "logo.png",
+  "keywords": [
+    "mcp",
+    "notetaker",
+    "meeting-notes",
+    "transcripts",
+    "productivity",
+    "ai"
+  ]
+}
