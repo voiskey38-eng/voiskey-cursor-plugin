@@ -45,7 +45,7 @@ The **Voiskey** plugin connects your [Voiskey AI Notetaker](https://www.voiskey.
 ## Testing & Reviewer Notes
 
 For marketplace reviewers testing this integration:
-* **MCP Server Endpoint**: `https://api-sandbox.voiskey.ai/connect/mcp`
+* **MCP Server Endpoint**: `https://api.voiskey.ai/connect/mcp`
 * **Protocol**: Model Context Protocol (JSON-RPC 2.0 over HTTPS)
 * **Auth**: OAuth 2.0 with PKCE (S256) support. You may sign in with test credentials or request access from `contact@voiskey.ai`.
 
